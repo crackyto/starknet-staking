@@ -78,3 +78,4 @@ Starknet Staking follows good practices of security, but 100% security cannot be
 For more information and to report security issues, please refer to our [security documentation](https://github.com/starkware-libs/starknet-staking/blob/main/docs/SECURITY.md).
 Mise à jour du 14 janvier 2025 ✅
 Mise à jour du 15 janvier 2025 ✅
+Mise à jour du 16 janvier 2025 ✅
